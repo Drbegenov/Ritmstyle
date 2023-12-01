@@ -436,15 +436,15 @@
  }
 
  .map {
-     list-style-image: url(/images/little\ map.svg);
+     list-style-image: url(images/little\ map.svg);
  }
 
  .street {
-     list-style-image: url(/images/street.svg);
+     list-style-image: url(images/street.svg);
  }
 
  .offer {
-     list-style-image: url(/images/offer.svg);
+     list-style-image: url(images/offer.svg);
  }
 
  .footer__card h3 {
