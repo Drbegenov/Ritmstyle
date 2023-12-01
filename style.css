@@ -204,7 +204,7 @@
  .left-card {
      width: 500px;
      height: 276px;
-     background-image: url(/images/left\ square.png);
+     background-image: url(images/left\ square.png);
      opacity: 0.4;
  }
 
@@ -236,7 +236,7 @@
  .middle-card {
      width: 636px;
      height: 350px;
-     background-image: url(/images/middle\ square.png);
+     background-image: url(images/middle\ square.png);
  }
 
  .middle-card:hover {
@@ -267,7 +267,7 @@
  .right-card {
      width: 500px;
      height: 276px;
-     background-image: url(/images/right\ square.png);
+     background-image: url(images/right\ square.png);
      opacity: 0.4;
  }
 
